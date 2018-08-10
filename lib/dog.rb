@@ -1,5 +1,5 @@
 class Dog 
-  def name = (dog_name)
+  def truthy value 
     this_dogs_name= dog_name 
   end 
   
