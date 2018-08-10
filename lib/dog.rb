@@ -1,1 +1,1 @@
-# dog.rb
+def truthy value 
