@@ -1,5 +1,5 @@
 class Dog 
-  def truthy value 
+  def lassie
     this_dogs_name= dog_name 
   end 
   
